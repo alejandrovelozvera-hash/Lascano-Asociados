@@ -1,4 +1,4 @@
-# Las Cano y Asociados — Web Corporativa WordPress
+# Lascano y Asociados — Web Corporativa WordPress
 
 **URL:** [https://lascanoyasociados.com](https://lascanoyasociados.com)
 
@@ -60,4 +60,4 @@ wp-content/themes/las-cano-child/
 
 **Desarrollado por:** Alejandro Veloz Vera  
 **Año:** 2024-2025  
-**Cliente:** Las Cano y Asociados (Riobamba/Quito, Ecuador)
+**Cliente:** Lascano y Asociados (Ambato, Ecuador)
