@@ -1,22 +1,8 @@
-# Portfolio — Alejandro Veloz Vera
+# Las Cano y Asociados — Portfolio WordPress
 
-Desarrollador Full Stack / WordPress / Next.js — Riobamba, Ecuador
+**Desarrollador:** Alejandro Veloz Vera — Riobamba, Ecuador
 
-## Proyectos Destacados
-
-### 🛹 [Kemas Skateshop](./kemas-skateshop) — E-commerce Next.js 15
-**Stack:** Next.js 15 · React 19 · Tailwind v4 · Motion · Zustand · TypeScript · Hostinger PHP  
-**Repo:** `github.com/alejandrovelozvera-hash/kemas-skateshop`  
-**Demo:** `kemas-skateshop.vercel.app`  
-**Admin:** `/admin` (demo: admin / kemas2025)
-
-Tienda de skatewear & hardgoods con:
-- Catálogo filtrable 7 categorías, quick-view modal, wishlist
-- Carrito persistente con tallas/medidas, checkout
-- Panel admin CRUD productos + subida imágenes Hostinger
-- API protegidas con secret interno, sync bidireccional
-
----
+## Proyecto
 
 ### ⚖️ [Las Cano y Asociados](./las-cano-asociados) — Web Corporativa WordPress
 **Stack:** WordPress 6.x · Child Theme custom · Elementor/Gutenberg · PHP 8.2 · MySQL · Hostinger  
@@ -31,13 +17,13 @@ Sitio legal profesional para firma de abogados en Ecuador:
 
 ---
 
-## Habilidades Técnicas
+## Habilidades Técnicas (WordPress)
 
-| Frontend | Backend | CMS & Tools | DevOps |
-|----------|---------|-------------|--------|
-| React 19, Next.js 15, TypeScript | Node.js, PHP 8.2, Python | WordPress, WooCommerce, Elementor | Git, GitHub Actions, Vercel, Hostinger |
-| Tailwind CSS v4, Motion, Framer | REST APIs, GraphQL, MySQL | ACF, CPT, WPML, Yoast/RankMath | Docker, CI/CD, FTP/SFTP Deploy |
-| Zustand, TanStack Query, React Hook Form | Laravel (básico), Supabase | Gutenberg Blocks, Theme Development | Linux, Nginx, SSL, Performance |
+| CMS & Tools | Frontend | Backend | DevOps |
+|-------------|----------|---------|--------|
+| WordPress, WooCommerce, Elementor | HTML5, CSS3, JS vanilla, Alpine.js | PHP 8.2, MySQL, MariaDB | Git, FTP/SFTP, Hostinger, VPS |
+| ACF, CPT, WPML, Yoast/RankMath | SCSS, Tailwind (build) | REST API, WP CLI | Docker, CI/CD, SSL, Performance |
+| Gutenberg Blocks, Theme Development | Responsive, Accesibilidad WCAG | Seguridad, Caché, Optimización | Linux, Nginx, Backups |
 
 ---
 
@@ -50,4 +36,4 @@ Sitio legal profesional para firma de abogados en Ecuador:
 
 ---
 
-> Portfolio en constante actualización. Cada carpeta contiene su propio README técnico detallado.
+> Portfolio especializado en desarrollo WordPress. Cada proyecto contiene su README técnico detallado.
